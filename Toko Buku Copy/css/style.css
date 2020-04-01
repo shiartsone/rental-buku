@@ -1,0 +1,206 @@
+body {
+  background: #f2f2f2;
+  color: #666666;
+  font-family: "Open Sans", sans-serif;
+  height: 100%;
+}
+
+.bg-dark{
+	background-color: teal !important;
+	position: fixed;
+  	top: 0;
+  	width: 100%;
+  	transition: 0.2s;
+}
+
+/* Halaman Awal */
+
+.shadow-sm{
+	margin-top: 85px;
+}
+
+.shadow-sm h1{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 50px;
+	color: green;
+	font-family: "Open Sans", sans-serif;
+}
+
+.shadow-sm h4{
+	margin-bottom: 10px;
+	font-size: 16px;
+	font-family: "Open Sans", sans-serif;
+}
+
+.shadow-sm ul{
+	list-style: decimal;
+	font-family: "Open Sans", sans-serif;
+}
+
+
+/* Halaman Koleksi */
+
+.shadow-sm2{
+	margin-top: 85px;
+}
+
+.shadow-sm2 h1{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	color: green;
+	font-family: "Open Sans", sans-serif;
+}
+
+.shadow-sm2 h4{
+	margin-bottom: 10px;
+	font-size: 16px;
+	font-family: "Open Sans", sans-serif;
+}
+
+.shadow-sm2 a{
+	text-decoration: none;
+	font-family: "Open Sans", sans-serif;
+}
+
+.shadow-sm2 .kotak-koleksi{
+	text-align: center;
+	font-weight: bold;
+	background-color: teal;
+	color: #fff;
+	padding: 10px;
+}
+
+/* Halaman Index-Detail */
+
+.shadow-sm3{
+	margin-top: 85px;
+}
+
+.shadow-sm3 h1{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	color: green;
+	font-family: "Open Sans", sans-serif;
+}
+
+.shadow-sm3 h4{
+	color: #000;
+	margin-bottom: 10px;
+	font-size: 16px;
+	font-family: "Open Sans", sans-serif;
+}
+
+.shadow-sm3 a{
+	text-decoration: none;
+	font-family: "Open Sans", sans-serif;
+}
+
+/* Halaman Registrasi */
+
+.shadow-sm4{
+	margin-top: 85px;
+}
+
+.shadow-sm4 h1{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	color: green;
+	font-family: "Open Sans", sans-serif;
+}
+
+.shadow-sm4 h4{
+	color: #000;
+	margin-bottom: 10px;
+	font-size: 16px;
+	font-family: "Open Sans", sans-serif;
+}
+
+.shadow-sm4 a{
+	text-decoration: none;
+	font-family: "Open Sans", sans-serif;
+}
+
+.kotak-info{
+	background-color: teal;
+	color: #fff;
+	padding: 20px;
+	margin: 0px;
+	margin-bottom: 20px;
+}
+
+.kotak-info h4{
+	color: #fff;
+	font-weight: bold;
+	padding-bottom: 10px;
+}
+
+.kotak-info p{
+	color: #fff;
+
+}
+
+/* Halaman Registrasi */
+
+.shadow-sm5{
+	margin-top: 85px;
+}
+
+.shadow-sm5 h1{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	color: green;
+	font-family: "Open Sans", sans-serif;
+}
+
+.shadow-sm5 h3{
+	font-weight: bold;
+	color: #fff;
+	margin-bottom: 10px;
+	font-size: 16px;
+	font-family: "Open Sans", sans-serif;
+}
+
+.shadow-sm5 p{
+	color: #fff;
+	margin-top: 10px;
+	font-size: 15px;
+	font-family: "Open Sans", sans-serif;
+}
+
+.shadow-sm5 a{
+	text-decoration: none;
+	font-family: "Open Sans", sans-serif;
+}
+
+.kotak-info{
+	background-color: teal;
+	color: #fff;
+	padding: 20px;
+	margin: 0px;
+	margin-bottom: 20px;
+}
+
+.kotak-nim{
+	background-color: teal;
+	color: #fff;
+	padding: 4px;
+	border-radius: 4px;
+}
+
+.kotak-matkul{
+	background-size: 5px;
+	padding: 5px;
+	outline-style: solid;
+	outline-color: #ffff66;
+	outline-width: 1px;
+	margin-right: 5px;
+	margin-top: 15px;
+	font-weight: normal;
+	color: #ffff66;
+	float: right;
+}
